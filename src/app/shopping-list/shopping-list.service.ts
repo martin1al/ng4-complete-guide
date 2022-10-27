@@ -1,5 +1,4 @@
 import { EventEmitter } from '@angular/core';
-import { Recipe } from '../recipes/recipe.model';
 import { Ingredient } from '../shared/ingredient.model';
 
 export class ShoppingListService {
